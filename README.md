@@ -1,0 +1,2 @@
+# Ruby Instance Variable Assignment Bug
+This repository demonstrates an unexpected behavior in Ruby when attempting to modify instance variables outside the class's methods.  The `bug.rb` file showcases the issue, where assigning a new value directly to an instance variable does not reflect the intended change. The `bugSolution.rb` file illustrates the correct way to manage instance variable values.
